@@ -24,4 +24,4 @@ This project demonstrates a complete CI/CD pipeline using Jenkins to automate Do
 ![Repo](repo.png)
 
 ## 👨‍💻 Author
-Sagar Gharge
+Saagar Gharge
