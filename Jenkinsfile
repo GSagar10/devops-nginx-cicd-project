@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Clone Code') {
             steps {
-                git 'https://github.com/YOUR-USERNAME/devops-nginx-cicd-project.git'
+                git 'https://github.com/GSagar10/devops-nginx-cicd-project.git'
             }
         }
 
