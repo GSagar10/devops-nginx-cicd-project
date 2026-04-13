@@ -17,11 +17,11 @@ This project demonstrates a complete CI/CD pipeline using Jenkins to automate Do
 4. Old container is removed
 5. New container is deployed
 
-## 🌐 Application Output
-![Output](output.png)
-
 ## 📦 Repository Structure
 ![Repo](repo.png)
+
+## 🌐 Application Output
+![Output](output.png)
 
 ## 👨‍💻 Author
 Saagar Gharge
